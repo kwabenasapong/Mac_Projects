@@ -1,0 +1,756 @@
+[
+  {
+    "_id": "61e58c6aef99b1c54343e375",
+    "id": "tt10209920",
+    "primaryImage": {
+      "id": "rm882431489",
+      "width": 8200,
+      "height": 12300,
+      "url": "https://m.media-amazon.com/images/M/MV5BNjc5ZGQwNjMtNGI3NC00Yzg3LTk4MjktMDgwYTcyZDhhNmRmXkEyXkFqcGdeQXVyMjE2MzA5MDI@._V1_.jpg",
+      "caption": {
+        "plainText": "Alien Wars: Judgement Day (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Alien Wars: Judgement Day",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Alien Wars: Judgement Day",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 29,
+      "month": 12,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e58cf3b597b91eb9440527",
+    "id": "tt10300396",
+    "primaryImage": null,
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Untitled Taika Waititi Star Wars Film",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Untitled Taika Waititi Star Wars Film",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2026,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 22,
+      "month": 5,
+      "year": 2026,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e58cf6e1a8ddbd96440553",
+    "id": "tt10300398",
+    "primaryImage": null,
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Star Wars: New Jedi Order",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Star Wars: New Jedi Order",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2026,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 22,
+      "month": 5,
+      "year": 2026,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e58d61d735dff3f944218d",
+    "id": "tt10369928",
+    "primaryImage": {
+      "id": "rm2215757057",
+      "width": 1435,
+      "height": 1793,
+      "url": "https://m.media-amazon.com/images/M/MV5BOWE0NDk3ZGMtMDJmNC00MWZjLTkwMTYtMzU2MWJjNTMyNDM4XkEyXkFqcGdeQXVyNDQ3NTA1MTM@._V1_.jpg",
+      "caption": {
+        "plainText": "Vagabond Lover 1999 (2025)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Vagabond Lover 1999",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Vagabond Lover 1999",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2025,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 22,
+      "month": 3,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e58ea278c012aa34446beb",
+    "id": "tt10579986",
+    "primaryImage": {
+      "id": "rm878544897",
+      "width": 1217,
+      "height": 1792,
+      "url": "https://m.media-amazon.com/images/M/MV5BNDFmYWRhYmMtMDBiNS00OWZkLTk3ZmYtODMyZjdlMDFjNWNlXkEyXkFqcGdeQXVyNjA1NjIzMzQ@._V1_.jpg",
+      "caption": {
+        "plainText": "Mom's Coming (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Mom's Coming",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Mom's Coming",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 24,
+      "month": 11,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e58ff1a66e59642344bf67",
+    "id": "tt10801048",
+    "primaryImage": null,
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "Short",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Short",
+      "id": "short",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Udesky's Destiny",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Udesky's Destiny",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2025,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 31,
+      "month": 10,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e59035909c2ca78144cef3",
+    "id": "tt10844184",
+    "primaryImage": {
+      "id": "rm1730631681",
+      "width": 1200,
+      "height": 1800,
+      "url": "https://m.media-amazon.com/images/M/MV5BYTk4ZDU4NDQtYzVhNS00MDI3LWFkMDYtM2I2YTc0YmJjMTQ1XkEyXkFqcGdeQXVyMzE2NDI5NzI@._V1_.jpg",
+      "caption": {
+        "plainText": "Detour 95 (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Detour 95",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Detour 95",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 24,
+      "month": 10,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e5909a909c2ca78144e7ab",
+    "id": "tt10911604",
+    "primaryImage": null,
+    "titleType": {
+      "text": "Short",
+      "id": "short",
+      "isSeries": false,
+      "isEpisode": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Ghost Hollow: Another Vermont Urban Legend",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Ghost Hollow: Another Vermont Urban Legend",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2025,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 31,
+      "month": 10,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e590edb597b91eb944fbc9",
+    "id": "tt10967898",
+    "primaryImage": {
+      "id": "rm3487597825",
+      "width": 5107,
+      "height": 2160,
+      "url": "https://m.media-amazon.com/images/M/MV5BNmI0NDY5Y2QtYzU2MC00NzFkLWExYWQtYzJlOTFkYmQyZGYyXkEyXkFqcGdeQXVyODczNDEwMjk@._V1_.jpg",
+      "caption": {
+        "plainText": "Kevin Lucero Less in Brought in with the Dust (2025)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Brought in with the Dust",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Brought in with the Dust",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2025,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 31,
+      "month": 10,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e5911495801a78bc450823",
+    "id": "tt1099209",
+    "primaryImage": {
+      "id": "rm1741636352",
+      "width": 1200,
+      "height": 1800,
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBhOWM5MGEtOWYxNC00MDZkLWJkOGUtMTcxZTJmNzI4MDQ5XkEyXkFqcGdeQXVyMTkwNjcyOTk@._V1_.jpg",
+      "caption": {
+        "plainText": "Terry Moore and Vladislav Alex Kozlov in Silent Life: The Story of the Lady in Black (2023)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Silent Life: The Story of the Lady in Black",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Silent Life: The Story of the Lady in Black",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2023,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 29,
+      "month": 2,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e59228cffb8f2faa454a65",
+    "id": "tt1117392",
+    "primaryImage": {
+      "id": "rm2785331713",
+      "width": 614,
+      "height": 800,
+      "url": "https://m.media-amazon.com/images/M/MV5BNjc3NzI2MDQtYTNiYi00Mjk3LThkMTYtMWI1YTkxNGI4ZGJmXkEyXkFqcGdeQXVyNDI2MTA0OA@@._V1_.jpg",
+      "caption": {
+        "plainText": "The Ark and the Aardvark (2026)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "The Ark and the Aardvark",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "The Ark and the Aardvark",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2026,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 30,
+      "month": 4,
+      "year": 2026,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e593bfef99b1c54345ac27",
+    "id": "tt11443900",
+    "primaryImage": {
+      "id": "rm187032065",
+      "width": 1080,
+      "height": 1080,
+      "url": "https://m.media-amazon.com/images/M/MV5BYTZlOTU3YjYtZmQ3ZC00NmI4LTg4MWUtODJkMmY5Y2M5ZDAxXkEyXkFqcGdeQXVyMzA4OTQ2Nzg@._V1_.jpg",
+      "caption": {
+        "plainText": "Citizen Green (2022)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Citizen Green",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Citizen Green",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2022,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 22,
+      "month": 4,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e593ffef99b1c54345bc41",
+    "id": "tt11487742",
+    "primaryImage": null,
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "The Evil Within",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "The Evil Within",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2025,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 31,
+      "month": 10,
+      "year": 2025,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e595f8909c2ca7814638d3",
+    "id": "tt11822244",
+    "primaryImage": {
+      "id": "rm731067905",
+      "width": 1074,
+      "height": 1325,
+      "url": "https://m.media-amazon.com/images/M/MV5BMDIxNzE0NWItZTJhNi00ZWUyLTgyYzgtMjk5MzkxMjcwZjJjXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_.jpg",
+      "caption": {
+        "plainText": "Manje Bistre 3 (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "Manje Bistre 3",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "Manje Bistre 3",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 26,
+      "month": 7,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  },
+  {
+    "_id": "61e595ff95801a78bc463d27",
+    "id": "tt11828386",
+    "primaryImage": {
+      "id": "rm2429698561",
+      "width": 404,
+      "height": 608,
+      "url": "https://m.media-amazon.com/images/M/MV5BZjMxNDk1YWQtMzJmNC00MGU0LTkyZjItMzBiN2M2NmM2MmQ5XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "caption": {
+        "plainText": "The Second Best Hospital in the Galaxy (2024)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "TV Series",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "TV Series",
+      "id": "tvSeries",
+      "isSeries": true,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "tv",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": true,
+      "__typename": "TitleType"
+    },
+    "titleText": {
+      "text": "The Second Best Hospital in the Galaxy",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "The Second Best Hospital in the Galaxy",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 2024,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 23,
+      "month": 2,
+      "year": 2024,
+      "__typename": "ReleaseDate"
+    }
+  }
+]
